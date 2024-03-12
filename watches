@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2024-03-12T08:00:00",
+    "heart_rate": 72,
+    "steps": 2150,
+    "calories_burned": 120,
+    "distance": 1.2,
+    "sleep_duration": 7.5
+  },
+  {
+    "timestamp": "2024-03-12T12:00:00",
+    "heart_rate": 78,
+    "steps": 500,
+    "calories_burned": 80,
+    "distance": 0.5,
+    "sleep_duration": null
+  },
+  {
+    "timestamp": "2024-03-12T16:00:00",
+    "heart_rate": 85,
+    "steps": 3200,
+    "calories_burned": 150,
+    "distance": 2.0,
+    "sleep_duration": null
+  },
+  {
+    "timestamp": "2024-03-12T20:00:00",
+    "heart_rate": 68,
+    "steps": 1500,
+    "calories_burned": 100,
+    "distance": 1.0,
+    "sleep_duration": 8.0
+  }
+]
+
